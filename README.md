@@ -36,3 +36,9 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaBongPal&hide=contribs,prs&show_icons=true&theme=white)
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaBongPal)
+
+
+<!--
+Badges
+https://github.com/danmadeira/simple-icon-badges
+-->

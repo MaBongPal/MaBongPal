@@ -7,11 +7,11 @@
 3. .
 
 ## Contact
-<span style="text-decoration: none;">
-  <a href="mailto:﻿bong_pal@naver.com">
+<span>
+  <a href="mailto:﻿bong_pal@naver.com" target="_blank">
     <img src="https://img.shields.io/badge/bong__pal@naver.com-03C75A?style=flat&logo=naver&logoColor=white"/>
   </a>
-  <a href="https://t.me/mabongpal">
+  <a href="https://t.me/mabongpal" target="_blank">
     <img src="https://img.shields.io/badge/@mabongpal-26A5E4?style=flat&logo=telegram&logoColor=white"/>
   </a>
 </span>
